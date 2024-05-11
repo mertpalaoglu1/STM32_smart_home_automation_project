@@ -1,2 +1,2 @@
 # STM32_smart_home_automation_project
-(STM32F446RET6)
+STM32F446RET6 Card
